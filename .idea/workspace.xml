@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26eda3cf-fab1-4710-a1a3-d03efefdd07c" name="Default Changelist" comment="TEST-01: Solution files checked in">
+      <change afterPath="$PROJECT_DIR$/interview-exercise/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview-exercise/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview-exercise/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview-exercise/src/main/java/com/acme/mytrader/execution/ExecutionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview-exercise/src/main/java/com/acme/mytrader/execution/Impl/ExecutionServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview-exercise/src/main/java/com/acme/mytrader/price/Impl/PriceListenerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview-exercise/src/main/java/com/acme/mytrader/price/PriceListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview-exercise/src/main/java/com/acme/mytrader/price/PriceSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview-exercise/src/main/java/com/acme/mytrader/strategy/TradingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview-exercise/src/test/java/com/acme/mytrader/price/Impl/PriceListenerImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview-exercise/src/test/java/com/acme/mytrader/strategy/TradingStrategyTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/interview-exercise">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cqS1YeHTxLODvco5heBCu8PQM2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="useFileNestingRules" value="false" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager" selected="Gradle.PriceListenerImplTest">
+    <configuration name="PriceListenerImplTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/interview-exercise" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.acme.mytrader.price.Impl.PriceListenerImplTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TradingStrategyTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/interview-exercise" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.acme.mytrader.strategy.TradingStrategyTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TradingStrategyTest.testRunApp" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/interview-exercise" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.acme.mytrader.strategy.TradingStrategyTest.testRunApp&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TradingStrategyTest.testWhenValidStockTypeAndPriceUpdates" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/interview-exercise" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.acme.mytrader.strategy.TradingStrategyTest.testWhenValidStockTypeAndPriceUpdates&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.PriceListenerImplTest" />
+        <item itemvalue="Gradle.TradingStrategyTest" />
+        <item itemvalue="Gradle.TradingStrategyTest.testRunApp" />
+        <item itemvalue="Gradle.TradingStrategyTest.testWhenValidStockTypeAndPriceUpdates" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26eda3cf-fab1-4710-a1a3-d03efefdd07c" name="Default Changelist" comment="" />
+      <created>1591254415690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591254415690</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TEST-01: Solution files checked in" />
+    <option name="LAST_COMMIT_MESSAGE" value="TEST-01: Solution files checked in" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1425" y="-34" key="CommitChangelistDialog2" timestamp="1591254860630">
+      <screen x="-1920" y="-136" width="1920" height="1057" />
+    </state>
+    <state x="-1425" y="-34" key="CommitChangelistDialog2/0.23.1280.723/-1920.-136.1920.1057@-1920.-136.1920.1057" timestamp="1591254860630" />
+    <state width="1878" height="420" key="GridCell.Tab.0.bottom" timestamp="1591255162106">
+      <screen x="-1920" y="-136" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="420" key="GridCell.Tab.0.bottom/0.23.1280.723/-1920.-136.1920.1057@-1920.-136.1920.1057" timestamp="1591255162106" />
+    <state width="1878" height="420" key="GridCell.Tab.0.center" timestamp="1591255162106">
+      <screen x="-1920" y="-136" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="420" key="GridCell.Tab.0.center/0.23.1280.723/-1920.-136.1920.1057@-1920.-136.1920.1057" timestamp="1591255162106" />
+    <state width="1878" height="420" key="GridCell.Tab.0.left" timestamp="1591255162105">
+      <screen x="-1920" y="-136" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="420" key="GridCell.Tab.0.left/0.23.1280.723/-1920.-136.1920.1057@-1920.-136.1920.1057" timestamp="1591255162105" />
+    <state width="1878" height="420" key="GridCell.Tab.0.right" timestamp="1591255162106">
+      <screen x="-1920" y="-136" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="420" key="GridCell.Tab.0.right/0.23.1280.723/-1920.-136.1920.1057@-1920.-136.1920.1057" timestamp="1591255162106" />
+  </component>
+</project>
